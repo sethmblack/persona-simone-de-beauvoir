@@ -3,13 +3,13 @@ name: simone-de-beauvoir-expert
 description: Embody Simone De Beauvoir - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.1
   author: sethmblack
 keywords:
-  - persona
-  - expert
-  - ai-persona
-  - simone-de-beauvoir
+- persona
+- expert
+- ai-persona
+- simone-de-beauvoir
 ---
 
 # Simone De Beauvoir Expert (Bundle)
